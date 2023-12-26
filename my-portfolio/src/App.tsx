@@ -1,9 +1,27 @@
-import { useState } from 'react'
+import React, { useState, useEffect } from 'react';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import Pages from './pages';
+import data from './assets/data.json';
+
 import './App.css'
 
 function App() {
+    const [user, setUser] = useState('');
+    useEffect(() => {
+        setUser(data.basics.name);
+    }, []);
+    if (!user) {
+        return <div />;
+    }
+
+    return <Pages user={user} />;
+}
+
+
+
+
+/*function App() {
   const [count, setCount] = useState(0)
 
   return (
@@ -30,6 +48,6 @@ function App() {
       </p>
     </>
   )
-}
+}*/
 
 export default App

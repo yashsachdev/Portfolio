@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\my-portfolio",
+    "\\my-portfolio\\src",
+    "\\my-portfolio\\src\\assets",
+    "\\my-portfolio\\src\\components",
+    "\\my-portfolio\\src\\components\\UserHeader"
   ],
-  "SelectedNode": "\\C:\\Users\\yashs\\Documents\\Portfolio",
+  "SelectedNode": "\\my-portfolio\\src\\components\\UserHeader\\index.js",
   "PreviewInSolutionExplorer": false
 }
