@@ -3,10 +3,10 @@
     "",
     "\\my-portfolio",
     "\\my-portfolio\\src",
-    "\\my-portfolio\\src\\assets",
     "\\my-portfolio\\src\\components",
-    "\\my-portfolio\\src\\components\\UserHeader"
+    "\\my-portfolio\\src\\components\\UserHeader",
+    "\\my-portfolio\\src\\pages"
   ],
-  "SelectedNode": "\\my-portfolio\\src\\components\\UserHeader\\index.js",
+  "SelectedNode": "\\my-portfolio\\src\\components\\UserHeader\\style.js",
   "PreviewInSolutionExplorer": false
 }
