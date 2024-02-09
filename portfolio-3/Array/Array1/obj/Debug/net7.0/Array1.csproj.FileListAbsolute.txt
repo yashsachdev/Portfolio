@@ -1,0 +1,14 @@
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\bin\Debug\net7.0\Array1.exe
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\bin\Debug\net7.0\Array1.deps.json
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\bin\Debug\net7.0\Array1.runtimeconfig.json
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\bin\Debug\net7.0\Array1.dll
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\bin\Debug\net7.0\Array1.pdb
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.AssemblyInfoInputs.cache
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.AssemblyInfo.cs
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.dll
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\refint\Array1.dll
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.pdb
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\Array1.genruntimeconfig.cache
+C:\Users\yashs\Documents\Portfolio\portfolio-3\Array\Array1\obj\Debug\net7.0\ref\Array1.dll

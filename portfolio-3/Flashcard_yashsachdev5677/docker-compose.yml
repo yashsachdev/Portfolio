@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+    dbs:
+        container_name: sql_server_db_flashcard
+        image: "mcr.microsoft.com/mssql/server:2017-latest"
+        environment:
+            - ACCEPT_EULA=Y
+            - SA_PASSWORD=1Secure*Password1
+
+    flashcard_yashsachdev5677:
+        image: ${DOCKER_REGISTRY-}flashcardyashsachdev5677
+        build:
+            context: .
+            dockerfile: Flashcard_yashsachdev5677/Dockerfile
+        depends_on:  
+            - dbs

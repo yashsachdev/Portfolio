@@ -1,0 +1,24 @@
+name: dockercompose2240646473729780425
+services:
+  dbs:
+    container_name: sql_server_db_flashcard
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: 1Secure*Password1
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    networks:
+      default: null
+  flashcard_yashsachdev5677:
+    build:
+      context: C:\Users\yashs\Documents\Portfolio\portfolio-3\Flashcard_yashsachdev5677
+      dockerfile: Flashcard_yashsachdev5677/Dockerfile
+    depends_on:
+      dbs:
+        condition: service_started
+        required: true
+    image: flashcardyashsachdev5677
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose2240646473729780425_default
